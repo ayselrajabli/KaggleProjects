@@ -1,2 +1,2 @@
 # Kaggle
-My Kaggle project&training
+My Kaggle projects
